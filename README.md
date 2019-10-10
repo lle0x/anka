@@ -4,9 +4,9 @@ AWS Cloudformation Helpers
 # Requirements
 
 ## Cloud
-AWS account
-AWS access key
-AWS secret access key
+* AWS account
+* AWS access key
+* AWS secret access key
 
 ## Operating System
 Ubuntu:
